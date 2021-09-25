@@ -1,5 +1,5 @@
 ## Hii👋, 
-I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. I am a Python Developer.
+I'm Syed Aashiq Ahamed, final year undergraduate student. I am passionate about Web technologies. 
 
 
 - 🔭 I’m currently working on Web Development
