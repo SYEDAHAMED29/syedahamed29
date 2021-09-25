@@ -1,7 +1,15 @@
-<img src = "https://cdn.pixabay.com/photo/2016/06/02/02/38/mesh-1430108_1280.png" />
+## Hii👋, 
+I'm Sakshi Gupta, final year undergraduate student. I am passionate about technologies and open source. I am a Python Developer.
 
-### Hi there 👋
-## I am Syed Aashiq Ahamed.
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Reactjs and Mongodb
+-  ⚡ Languages: Javascript
+
+
+---
+
+⭐️ From [Syed Ahamed](https://github.com/SYEDAHAMED29)
 
 
 <!--
