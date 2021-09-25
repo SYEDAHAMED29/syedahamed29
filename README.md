@@ -1,4 +1,4 @@
-[https://cdn.pixabay.com/photo/2016/06/02/02/35/mesh-1430107_1280.png]
+<img src = "https://cdn.pixabay.com/photo/2016/06/02/02/35/mesh-1430107_1280.png" />
 
 ### Hi there 👋
 ## I am Syed Aashiq Ahamed.
