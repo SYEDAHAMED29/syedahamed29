@@ -1,9 +1,8 @@
 ## Hii👋, 
-I'm Syed Aashiq Ahamed, final year undergraduate student. I am passionate about Web technologies. 
+I'm Syed Aashiq Ahamed, a web developer at heart, with a knack for creating elegant web applications that cater to unique requirements.. 
 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Reactjs and Mongodb
 -  ⚡ Languages: Javascript
 
 
