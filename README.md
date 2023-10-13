@@ -8,7 +8,7 @@ I'm Syed Aashiq Ahamed, a web developer at heart, with a knack for creating eleg
 
 ---
 
-⭐️ From [Syed Ahamed](https://github.com/SYEDAHAMED29)
+⭐️ From [Syed Ahamed](https://www.syedahamed.in/)
 
 
 <!--
